@@ -1,1 +1,1 @@
-# mts-course-first-task
+# mts-course
